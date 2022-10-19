@@ -1,0 +1,5 @@
+Lab Intro to Tableau 
+Anahi Olmos
+
+Tableau Public workbook:
+https://public.tableau.com/views/LabIntroductionTableau/Lab_Intro-Tableau?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
